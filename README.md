@@ -9,6 +9,6 @@
 |     2| SQL    |
 </details>
 <details>
-### <summary>  About project</summary>
-
+<summary>  About project</summary>
+is db manager :3
 </details>
