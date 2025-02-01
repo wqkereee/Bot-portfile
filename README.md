@@ -8,3 +8,7 @@
 |     1| Python |
 |     2| SQL    |
 </details>
+<details>
+### <summary>  About project</summary>
+
+</details>
