@@ -10,5 +10,5 @@
 </details>
 <details>
 <summary>  About project</summary>
-is db manager :3
+its db manager :3
 </details>
