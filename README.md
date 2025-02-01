@@ -1,8 +1,8 @@
 ## About me
 
-## Hi, I'm Ilya. and i python developer.
+### Hi, I'm Ilya. and i python developer.
 <details>
-<summary> ### My top languages</summary>
+<summary>  My top languages</summary>
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python |
